@@ -81,7 +81,8 @@
     "github actions",
     "remark-lint",
     "husky",
-    "lint-staged"
+    "lint-staged",
+    "renovate"
   ],
   "license": "0BSD",
   "scripts": {

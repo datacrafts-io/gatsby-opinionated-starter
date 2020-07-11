@@ -23,6 +23,7 @@
   <em>
     Netlify-ready
     · GitHub Actions
+    · Renovate
     · Typography.js
   </em>
 </p>
@@ -46,6 +47,7 @@ This is a complex boilerplate for [Gatsby](https://www.gatsbyjs.org/).
 
 Supports:
 * [TypeScript](https://www.typescriptlang.org/)
+* [Renovate](https://renovate.whitesourcesoftware.com/)
 * [PropTypes](https://github.com/facebook/prop-types)
 * [Storybook](https://storybook.js.org/)
 * [Typography.js](https://kyleamathews.github.io/typography.js/)
