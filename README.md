@@ -1,4 +1,4 @@
-<h2 align="center">Opinionated [Gatsby](https://www.gatsbyjs.org/) Starter</h2>
+<h2 align="center">Opinionated Gatsby Starter</h2>
 
 <p align="center">
   <em>
@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/prettier/prettier/actions?query=workflow%3AMain+branch%3Amaster">
-    <img alt="Github Actions Build Status" src="https://img.shields.io/github/workflow/status/datacrafts-io/gatsby-opinionated-starter/Main?label=Build&style=flat-square"></a>
+  <a href="https://github.com/datacrafts-io/gatsby-opinionated-starter/actions?query=workflow%3Amain+branch%3Amaster">
+    <img alt="Github Actions Build Status" src="https://img.shields.io/github/workflow/status/datacrafts-io/gatsby-opinionated-starter/main?label=Build&style=flat-square"></a>
     
   <a href="https://www.npmjs.com/package/gatsby-opinionated-starter">
     <img alt="npm version" src="https://img.shields.io/npm/v/gatsby-opinionated-starter.svg?style=flat-square"></a>
@@ -42,7 +42,7 @@
 
 ### _Very_ opinionated starter for Gatsby
 
-This is a complex boilerplate for [Gatsby](https://github.com/gatsbyjs/gatsby).
+This is a complex boilerplate for [Gatsby](https://www.gatsbyjs.org/).
 
 Supports:
 * [TypeScript](https://www.typescriptlang.org/)
