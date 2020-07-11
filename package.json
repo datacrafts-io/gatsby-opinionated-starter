@@ -94,8 +94,7 @@
     "test": "jest --coverage",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "lint-staged-script": "lint-staged",
-    "remark": "remark ."
+    "lint": "remark . && stylelint **/*.scss && eslint ."
   },
   "repository": {
     "type": "git",
