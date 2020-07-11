@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/datacrafts-io/gatsby-opinionated-starter/actions?query=workflow%3Amain+branch%3Amaster">
-    <img alt="Github Actions Build Status" src="https://img.shields.io/github/workflow/status/datacrafts-io/gatsby-opinionated-starter/main?label=Build&style=flat-square"></a>
+  <a href="https://github.com/datacrafts-io/gatsby-opinionated-starter/actions?query=workflow%3AMain+branch%3Amaster">
+    <img alt="Github Actions Build Status" src="https://img.shields.io/github/workflow/status/datacrafts-io/gatsby-opinionated-starter/Main?label=Build&style=flat-square"></a>
     
   <a href="https://www.npmjs.com/package/gatsby-opinionated-starter">
     <img alt="npm version" src="https://img.shields.io/npm/v/gatsby-opinionated-starter.svg?style=flat-square"></a>
