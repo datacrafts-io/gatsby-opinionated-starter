@@ -24,6 +24,7 @@
     Netlify-ready
     · GitHub Actions
     · Renovate
+    · PWA-enabled
     · Typography.js
   </em>
 </p>
@@ -40,30 +41,31 @@
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
 </p>
 
-
 ### _Very_ opinionated starter for Gatsby
 
 This is a complex boilerplate for [Gatsby](https://www.gatsbyjs.org/).
 
 Supports:
-* [TypeScript](https://www.typescriptlang.org/)
-* [Renovate](https://renovate.whitesourcesoftware.com/)
-* [PropTypes](https://github.com/facebook/prop-types)
-* [Storybook](https://storybook.js.org/)
-* [Typography.js](https://kyleamathews.github.io/typography.js/)
-* [Jest](https://jestjs.io/)
-* [testing-library](https://testing-library.com/)
-* [stylelint](https://stylelint.io/)
-* [ESLint](https://eslint.org/)
-* [Airbnb ESLint config](https://github.com/airbnb/javascript)
-* [Prettier support for ESLint](https://github.com/prettier/eslint-plugin-prettier)
-* [remark-lint](https://remark.js.org/)
-* [Husky](https://github.com/typicode/husky)
-* [lint-staged](https://github.com/okonet/lint-staged)
-* [SCSS](https://sass-lang.com/)
-* [(S)CSS Modules](https://github.com/css-modules/css-modules)
-* [Netlify](https://www.netlify.com/)
-* [GitHub Actions CI](https://github.com/features/actions)
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Renovate](https://renovate.whitesourcesoftware.com/)
+- [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+- [PropTypes](https://github.com/facebook/prop-types)
+- [Storybook](https://storybook.js.org/)
+- [Typography.js](https://kyleamathews.github.io/typography.js/)
+- [Jest](https://jestjs.io/)
+- [testing-library](https://testing-library.com/)
+- [stylelint](https://stylelint.io/)
+- [ESLint](https://eslint.org/)
+- [Airbnb ESLint config](https://github.com/airbnb/javascript)
+- [Prettier support for ESLint](https://github.com/prettier/eslint-plugin-prettier)
+- [remark-lint](https://remark.js.org/)
+- [Husky](https://github.com/typicode/husky)
+- [lint-staged](https://github.com/okonet/lint-staged)
+- [SCSS](https://sass-lang.com/)
+- [(S)CSS Modules](https://github.com/css-modules/css-modules)
+- [Netlify](https://www.netlify.com/)
+- [GitHub Actions CI](https://github.com/features/actions)
 
 ## 🚀 Quick start
 
