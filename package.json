@@ -84,7 +84,8 @@
     "remark-lint",
     "husky",
     "lint-staged",
-    "renovate"
+    "renovate",
+    "pwa"
   ],
   "license": "0BSD",
   "scripts": {
