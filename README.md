@@ -86,8 +86,8 @@ Supports:
     In order to run Storybook + Gatsby dev server, navigate into your new site’s directory and start it up.
 
     ```shell
-    cd opinionated-project/
-    npm run start
+    $ cd opinionated-project/
+    $ npm run start
     ```
 
 ## 🎓 Learning Gatsby
