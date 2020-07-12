@@ -72,21 +72,26 @@ Supports:
 
 1.  **Create a Gatsby site.**
 
+    Firstly, you need to install Gatsby CLI on your machine:
+
+    ```shell
+    $ npm i -g gatsby-cli
+    ```
+
     Use the Gatsby CLI to create a new site, specifying a starter.
 
     ```shell
     # create a new Gatsby site using this starter
-    gatsby new opinionated-project https://github.com/datacrafts-io/gatsby-opinionated-starter
+    $ gatsby new opinionated-project https://github.com/datacrafts-io/gatsby-opinionated-starter
     ```
 
 1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+    In order to run Storybook + Gatsby dev server, navigate into your new site’s directory and start it up.
 
     ```shell
     cd opinionated-project/
-    gatsby develop
-    npm run storybook # It will be available at http://localhost:6006/
+    npm run start
     ```
 
 ## 🎓 Learning Gatsby

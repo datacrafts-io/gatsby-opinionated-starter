@@ -42,6 +42,7 @@
     "babel-loader": "8.1.0",
     "babel-preset-gatsby": "0.5.2",
     "babel-preset-react-app": "9.1.2",
+    "concurrently": "^5.2.0",
     "eslint": "7.4.0",
     "eslint-config-airbnb": "18.2.0",
     "eslint-config-airbnb-typescript-prettier": "3.1.0",
@@ -90,7 +91,7 @@
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "develop": "concurrently -c magenta,blue -n Gatsby,Storybook \"gatsby develop\" \"npm run storybook\"",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
