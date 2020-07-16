@@ -57,7 +57,6 @@
     "husky": "4.2.5",
     "identity-obj-proxy": "3.0.0",
     "jest": "26.1.0",
-    "lint-staged": "10.2.11",
     "prettier": "2.0.5",
     "remark-cli": "8.0.0",
     "remark-lint": "7.0.1",
@@ -84,7 +83,7 @@
     "github actions",
     "remark-lint",
     "husky",
-    "lint-staged",
+    "typoci",
     "renovate",
     "pwa"
   ],
@@ -115,19 +114,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && npm run test",
+      "pre-commit": "npm run lint && npm run test",
       "pre-push": "npm run test"
     }
-  },
-  "lint-staged": {
-    "*.{js,ts,tsx}": [
-      "eslint --fix"
-    ],
-    "*.scss": [
-      "stylelint"
-    ],
-    "*.{md,mdx}": [
-      "remark"
-    ]
   }
 }

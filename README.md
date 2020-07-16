@@ -16,14 +16,10 @@
   </em>
   <br />
   <em>
-    Husky
-    · lint-staged
-  </em>
-  <br />
-  <em>
     Netlify-ready
     · GitHub Actions
     · Renovate
+    · TypoCI
     · PWA-enabled
     · Typography.js
   </em>
@@ -58,7 +54,7 @@ Supports:
 - [Prettier support for ESLint](https://github.com/prettier/eslint-plugin-prettier)
 - [remark-lint](https://remark.js.org/)
 - [Husky](https://github.com/typicode/husky)
-- [lint-staged](https://github.com/okonet/lint-staged)
+- [TypoCI](https://typoci.com/)
 - [SCSS](https://sass-lang.com/)
 - [(S)CSS Modules](https://github.com/css-modules/css-modules)
 - [Netlify](https://www.netlify.com/)
@@ -87,6 +83,7 @@ Supports:
 
     ```shell
     $ cd opinionated-project/
+    $ npm i -D husky
     $ npm run start
     ```
 
