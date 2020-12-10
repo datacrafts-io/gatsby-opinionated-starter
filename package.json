@@ -64,7 +64,7 @@
     "remark-preset-lint-recommended": "4.0.1",
     "scss-loader": "0.0.1",
     "style-loader": "1.2.1",
-    "stylelint": "13.6.1",
+    "stylelint": "13.8.0",
     "stylelint-config-sass-guidelines": "7.1.0",
     "stylelint-scss": "3.18.0",
     "typescript": "4.0.3",
