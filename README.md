@@ -36,7 +36,7 @@
 
 ### _Very_ opinionated starter for Gatsby
 
-This is a complex boilerplate for [Gatsby](https://www.gatsbyjs.org/).
+This is a complex boilerplate for [Gatsby](https://www.gatsbyjs.org/) with conventional commits.
 
 Supports:
 
@@ -50,6 +50,8 @@ Supports:
 - [testing-library](https://testing-library.com/)
 - [stylelint](https://stylelint.io/)
 - [ESLint](https://eslint.org/)
+- [commitizen](https://github.com/commitizen/cz-cli)
+- [commitlint](https://github.com/conventional-changelog/commitlint)
 - [Airbnb ESLint config](https://github.com/airbnb/javascript)
 - [Prettier support for ESLint](https://github.com/prettier/eslint-plugin-prettier)
 - [remark-lint](https://remark.js.org/)
@@ -86,6 +88,10 @@ Supports:
     $ npm i -D husky
     $ npm run start
     ```
+
+1. **Committing.**
+
+    In order to commit in a conventional style conveniently you may run `npm run commit`.
 
 ## 🎓 Learning Gatsby
 

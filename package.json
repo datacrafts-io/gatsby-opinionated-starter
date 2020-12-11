@@ -30,6 +30,8 @@
     "@babel/core": "7.12.10",
     "@babel/preset-typescript": "7.12.7",
     "@babel/runtime": "7.12.5",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@commitlint/prompt": "^11.0.0",
     "@storybook/addon-actions": "6.0.26",
     "@storybook/addon-links": "6.0.26",
     "@storybook/addons": "6.0.26",
@@ -42,8 +44,9 @@
     "babel-loader": "8.2.2",
     "babel-preset-gatsby": "0.8.0",
     "babel-preset-react-app": "9.1.2",
-    "css-loader": "5.0.1",
+    "commitizen": "^4.2.2",
     "concurrently": "5.3.0",
+    "css-loader": "5.0.1",
     "eslint": "7.15.0",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-airbnb-typescript-prettier": "3.1.0",
@@ -95,6 +98,7 @@
     "build": "gatsby build",
     "develop": "concurrently -c magenta,blue -n Gatsby,Storybook \"gatsby develop\" \"npm run storybook\"",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "commit": "git-cz",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
@@ -114,6 +118,11 @@
     "plugins": [
       "remark-preset-lint-recommended"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "@commitlint/prompt"
+    }
   },
   "husky": {
     "hooks": {
