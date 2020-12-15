@@ -16,6 +16,12 @@
   </em>
   <br />
   <em>
+    commitizen
+    · commitlint
+    · semantic-release
+  </em>
+  <br />
+  <em>
     Netlify-ready
     · GitHub Actions
     · Renovate
@@ -52,6 +58,7 @@ Supports:
 - [ESLint](https://eslint.org/)
 - [commitizen](https://github.com/commitizen/cz-cli)
 - [commitlint](https://github.com/conventional-changelog/commitlint)
+- [semantic-release](https://semantic-release.gitbook.io/)
 - [Airbnb ESLint config](https://github.com/airbnb/javascript)
 - [Prettier support for ESLint](https://github.com/prettier/eslint-plugin-prettier)
 - [remark-lint](https://remark.js.org/)
