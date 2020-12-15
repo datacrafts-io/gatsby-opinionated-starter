@@ -100,6 +100,11 @@ Supports:
 
     In order to commit in a conventional style conveniently you may run `npm run commit`.
 
+## :warning: Disabling publishing to npm
+
+There is a file [.releaserc.json](.releaserc.json) where you can disable publishing your project
+to npm on every new semantic release by setting `npmPublish` option to `false`
+
 ## 🎓 Learning Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:

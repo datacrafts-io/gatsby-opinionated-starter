@@ -1,7 +1,7 @@
 {
   "name": "gatsby-opinionated-starter",
   "description": "A very opinionated TypeScript netlify-ready gatsby starter",
-  "version": "1.1.0",
+  "version": "1.1.0-semantically-versioned",
   "author": "Yaroslav Kasperovych <ilovewindows96@gmail.com>",
   "dependencies": {
     "@types/react-helmet": "6.1.0",
