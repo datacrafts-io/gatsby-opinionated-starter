@@ -4,7 +4,7 @@
   "version": "1.1.0-semantically-versioned",
   "author": "Yaroslav Kasperovych <ilovewindows96@gmail.com>",
   "dependencies": {
-    "@types/react-helmet": "6.1.0",
+    "@types/react-helmet": "6.1.11",
     "@types/typography": "0.16.3",
     "gatsby": "2.28.2",
     "gatsby-image": "2.7.0",
