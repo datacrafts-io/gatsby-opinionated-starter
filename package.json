@@ -5,7 +5,7 @@
   "author": "Yaroslav Kasperovych <ilovewindows96@gmail.com>",
   "dependencies": {
     "@types/react-helmet": "6.1.0",
-    "@types/typography": "0.16.3",
+    "@types/typography": "0.16.9",
     "gatsby": "2.28.2",
     "gatsby-image": "2.7.0",
     "gatsby-plugin-manifest": "2.8.0",
